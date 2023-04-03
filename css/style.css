@@ -211,6 +211,7 @@ h4 {
 	width: 405px;
 	height: 119px;
 	margin-top: 50px;
+	margin-left: 97px;
 	display: inline-block;
 }
 .contact-container {
@@ -219,7 +220,6 @@ h4 {
 }
 
 .p1-contact {
-	display: block;
 	width: 350px;
 	font-family: "BPG Nino Mtavruli", sans-serif;
 	color: #3D58A6;
