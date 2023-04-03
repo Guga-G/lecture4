@@ -211,22 +211,19 @@ h4 {
 	width: 405px;
 	height: 119px;
 	margin-top: 50px;
-/*	margin-left: 97px;*/
 	display: inline-block;
 }
 .contact-container {
 	width: 1366px;
 	height: 570px;
-	margin: 0 auto;
 }
 
 .p1-contact {
-	display: inline-block;
+	display: block;
 	width: 350px;
 	font-family: "BPG Nino Mtavruli", sans-serif;
 	color: #3D58A6;
 	font-size: 20px;
-/*	margin-top: 50px;*/
 	line-height: 1px;
 }
 
