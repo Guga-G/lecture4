@@ -80,11 +80,11 @@ h4 {
 	display: inline-block;
 }
 
-img {
+/*img {
 	display: inline-block;
 	margin-right: 60px;
 	vertical-align: middle;
-}
+}*/
 
 .index-p {
 	font-family: 'Roboto', sans-serif;
@@ -206,7 +206,7 @@ img {
 }
 
 .div-contact {
-	width: 238px;
+	width: 335px;
 	height: 119px;
 	margin-left: 97px;
 	display: inline-block;
@@ -238,6 +238,7 @@ img {
 
 .p3-contact {
 	display: inline-block;
+	width: 250px;
 	font-family: "BPG Arial", sans-serif;
 	color: black;
 	font-size: 16px;
