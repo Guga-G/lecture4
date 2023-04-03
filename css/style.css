@@ -219,6 +219,7 @@ img {
 
 .p1-contact {
 	display: inline-block;
+	width: 250px;
 	font-family: "BPG Nino Mtavruli", sans-serif;
 	color: #3D58A6;
 	font-size: 20px;
