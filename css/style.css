@@ -119,6 +119,7 @@ h4 {
 .footer-images {
 	width: 25px;
 	height: 31px;
+	margin-right: 35px;
 	margin-bottom: 60px;
 
 }
@@ -126,6 +127,7 @@ h4 {
 .devider {
 	width: 2px;
 	height: 28px;
+	margin-right: 35px;
 	margin-bottom: 60px;
 	
 }
@@ -219,7 +221,7 @@ h4 {
 
 .p1-contact {
 	display: inline-block;
-	width: 250px;
+	width: 350px;
 	font-family: "BPG Nino Mtavruli", sans-serif;
 	color: #3D58A6;
 	font-size: 20px;
@@ -229,7 +231,7 @@ h4 {
 
 .p2-contact {
 	display: inline-block;
-	width: 300px;
+	width: 450px;
 	font-family: "BPG Arial", sans-serif;
 	color: #808080;
 	font-size: 16px;
@@ -238,7 +240,7 @@ h4 {
 
 .p3-contact {
 	display: inline-block;
-	width: 300px;
+	width: 450px;
 	font-family: "BPG Arial", sans-serif;
 	color: black;
 	font-size: 16px;
