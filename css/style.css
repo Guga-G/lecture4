@@ -24,11 +24,11 @@ a {
 	color: #3d58a6;
 }
 
-.logo {
+/*.logo {
 	display: inline-block;
 	margin-right: 50px;
 	vertical-align: middle;
-}
+}*/
 
 
 .active {
@@ -80,11 +80,11 @@ h4 {
 	display: inline-block;
 }
 
-/*img {
+img {
 	display: inline-block;
 	margin-right: 60px;
 	vertical-align: middle;
-}*/
+}
 
 .index-p {
 	font-family: 'Roboto', sans-serif;
