@@ -6,6 +6,13 @@ header {
 	margin-bottom: 75px;
 }
 
+.logo {
+	display: inline-block;
+	margin-right: 60px;
+	padding-bottom: 10px;
+	vertical-align: middle;
+}
+
 
 li {
 	display: inline-block;
@@ -80,11 +87,6 @@ h4 {
 	display: inline-block;
 }
 
-img {
-	display: inline-block;
-	margin-right: 60px;
-	vertical-align: middle;
-}
 
 .index-p {
 	font-family: 'Roboto', sans-serif;
@@ -250,6 +252,14 @@ span.c1 {
 	display: inline-block;
 	font-family: "BPG Arial", sans-serif;
 	color: #808080;
+	font-size: 16px;
+	line-height: normal;
+}
+
+span.c2 {
+	display: inline-block;
+	font-family: "BPG Arial", sans-serif;
+	color: black;
 	font-size: 16px;
 	line-height: normal;
 }
