@@ -51,7 +51,7 @@ nav {
 /* Start section 1 */
 
 .s-1 {
-	margin-bottom: 124px;
+	margin-bottom: 117px;
 }
 
 .container {
@@ -80,27 +80,33 @@ h4 {
 }
 
 .card {
-	width: 571px;
+	width: 570px;
 	height: 226px;
 	background-color: #f2f2f2;
 	padding: 18px 20px;
 	display: inline-block;
 }
 
+img {
+	display: inline-block;
+	margin-right: 60px;
+	vertical-align: middle;
+
+}
 
 .index-p {
+	width: 356px;
+	float: right;
 	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
 	color: #333333;
-	display: inline-block;
-	width: 356px;
-	vertical-align: middle;
 	line-height: 24px;
+	display: inline-block;
 }
 
 
 .card-left {
-	margin-right: 24px;
+	margin-right: 20px;
 }
 
 .cardimage-left {
@@ -112,6 +118,7 @@ h4 {
 	width: 100px;
 	height: 131px;
 }
+
 
 .footer-index {
 	width: 1170px;
